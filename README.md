@@ -40,3 +40,11 @@ Now you are good to go!! Client would be running on PORT 5173 and Server would b
 
 Upload the data file.
 Also view the different flags derived from the data file.
+
+👨‍💻 Demo
+
+
+
+https://github.com/user-attachments/assets/7878b674-46a9-4e59-b19a-60b8d916c979
+
+
